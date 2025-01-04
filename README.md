@@ -44,5 +44,5 @@ Void is a Python-based virtual voice assistant that can perform various tasks th
    - client.py: Handles API interactions with OpenAI.
    - musicLibrary.py: Contains a dictionary of music tracks and their links.
 
-By Suresh Choudhary
+By Chirag D
 
